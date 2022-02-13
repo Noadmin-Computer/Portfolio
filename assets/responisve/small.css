@@ -1,0 +1,29 @@
+@media (max-width:587px){
+    body{
+        overflow-x: hidden;
+    }
+    .me{
+        left: 10%;
+    }
+    .card-container{
+        display: block;
+    }
+    .card:nth-child(2){
+        margin-left: 0;
+        margin-top: 60px;
+    }
+    .footer-col{
+        margin-left: 10%;
+    }
+}
+@media (max-width:511px){
+    .me{
+        left: 5%;
+    }
+  
+}
+@media (max-width:654px){
+    #skills{
+        margin-top: 120%;
+    }
+}

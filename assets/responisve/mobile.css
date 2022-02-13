@@ -1,0 +1,17 @@
+@media (max-width:450px){
+    #skills{
+        margin-top: 160%;
+    }
+}
+@media (max-width:375px){
+    #skills{
+        margin-top: 190%;
+    }
+    .card{
+        width: 230px;
+        margin-left: 30px;
+    }
+    .card:nth-child(2){
+        margin-left: 30px;
+    }
+}
